@@ -1,4 +1,4 @@
-package latihan.bin;
+package latihan.model;
 
 public class Kendaraan{
 
